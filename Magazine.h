@@ -10,9 +10,8 @@ private:
     int issueNum;
 
 public:
-    // TODO: Declare the Constructor (needs title, price, month, issueNum)
-    
-    // TODO: Declare the override for printDetails()
+    Magazine(std::string title, double price, std::string month, int issueNum);
+    void printDetails() override;
 };
 
 #endif
