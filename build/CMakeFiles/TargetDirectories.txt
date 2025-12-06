@@ -1,0 +1,3 @@
+C:/Users/User/OneDrive/Documents/School/CSCI 271-3024/BookStore-main/build/CMakeFiles/BookStore.dir
+C:/Users/User/OneDrive/Documents/School/CSCI 271-3024/BookStore-main/build/CMakeFiles/edit_cache.dir
+C:/Users/User/OneDrive/Documents/School/CSCI 271-3024/BookStore-main/build/CMakeFiles/rebuild_cache.dir
