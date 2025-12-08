@@ -1,6 +1,11 @@
 #ifndef PRINTEDMEDIA_H
 #define PRINTEDMEDIA_H
-
+//
+// Created by User on 12/06/2025.
+//
+// Author: Magda Hussein
+// Date: 12/06/2025
+// Assignment: Book Store
 #include <string>
 #include <iostream>
 
